@@ -1,14 +1,14 @@
-\ Project 1: Netflix Movies \& TV Shows Analysis 
+ Project 1: Netflix Movies \& TV Shows Analysis 
 
 
 
-\ Objective
+ Objective
 
 Explore Netflix's dataset to understand content distribution, genres, ratings, and country trends.
 
 
 
-\ Dataset
+ Dataset
 
 \- Source: \[Kaggle Netflix Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
@@ -16,13 +16,13 @@ Explore Netflix's dataset to understand content distribution, genres, ratings, a
 
 
 
-\ Tools
+ Tools
 
 \- Python (pandas, matplotlib, seaborn, Jupyter Notebook)
 
 
 
-\ Key Questions
+ Key Questions
 
 1\. How many movies vs. TV shows are on Netflix?
 
@@ -33,5 +33,6 @@ Explore Netflix's dataset to understand content distribution, genres, ratings, a
 4\. What are the most common genres?
 
 5\. What is the distribution of ratings?
+
 
 
