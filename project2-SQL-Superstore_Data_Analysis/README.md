@@ -1,36 +1,38 @@
-\# Project 1: Netflix Movies \& TV Shows Analysis 🎬
+Project 1: Superstore Sales and Profitability Analysis
+Objective
+The primary objective of this project is to perform a comprehensive analysis of the Superstore sales data to establish key performance indicators (KPIs), identify top-performing and underperforming business segments, and visualize critical trends to provide actionable insights for strategic decision-making.
+
+Dataset
+Source: [Local CSV File (Simulated Transactional Data)](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+
+File: data/Sample - Superstore.csv
+
+Key Columns: Sales, Profit, Order Date, Region, Customer Name, Category, Sub-Category, Discount.
+
+Tools
+Database: MySQL (for data loading, structuring, and initial querying)
+
+SQL Language: Standard MySQL (for data preparation and analytical query execution)
+
+Visualization & BI: Power BI Desktop (for data modeling, KPI tracking, and interactive dashboard development)
+
+Connector: MySQL ODBC Connector (to link the Power BI report directly to the database)
+
+Key Questions & Analysis Points
+Overall Performance: What are the Total Sales, Total Profit, and Total Quantity metrics (KPIs)?
+
+Geographic Drivers: Which Region is the most significant contributor to sales and profit?
+
+Customer Value: Who are the Top 10 Customers by total sales?
+
+Temporal Trends: What is the Sales Trend by Month over the dataset's duration?
+
+Product Mix: What is the sales and profit contribution of each Category and Sub-Category?
+
+Profit Levers: What is the impact of Discount levels on overall Profit?
+
+Dashboard Preview
+<img width="1171" height="658" alt="image" src="https://github.com/user-attachments/assets/c120c26e-abbd-4f54-9757-f6e11ad58a3f" />
 
 
-
-\## Objective
-
-Explore Netflix's dataset to understand content distribution, genres, ratings, and country trends.
-
-
-
-\## Dataset
-
-\- Source: \[Kaggle Netflix Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)
-
-\- File: `data/netflix\_titles.csv`
-
-
-
-\## Tools
-
-\- Python (pandas, matplotlib, seaborn, Jupyter Notebook)
-
-
-
-\## Key Questions
-
-1\. How many movies vs. TV shows are on Netflix?
-
-2\. How has Netflix’s content grown over time?
-
-3\. Which countries produce the most content?
-
-4\. What are the most common genres?
-
-5\. What is the distribution of ratings?
 
