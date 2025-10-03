@@ -12,7 +12,7 @@ Each project is designed to answer real-world business questions and showcase bo
 - **Skills:** Data cleaning, null handling, descriptive statistics, visualization
 - **Summary:** Explored Netflix catalog to uncover distribution of genres, release years, and countries. Identified data quality issues and trends in content strategy.
 - **Deliverables:**  
-  - [Jupyter Notebook](./netflix/netflix_analysis.ipynb)  
+  - [Jupyter Notebook](project1-netflix-eda/notebook/netflix_eda.ipynb)  
   
  
 ### 2. Superstore Sales Analytics (SQL + Power BI)
@@ -21,5 +21,5 @@ Each project is designed to answer real-world business questions and showcase bo
 - **Skills:** SQL (JOIN, GROUP BY, ORDER BY), KPI analysis, dashboarding
 - **Summary:** Analyzed sales performance across regions, categories, and customer segments. Built interactive dashboards to track revenue, profit, and discount impacts.
 - **Deliverables:**  
-  - [SQL Queries](./superstore/sql_queries.sql)  
-  - [Power BI Dashboard Screenshot](./superstore/dashboard.png)  
+  - [SQL Queries](project2-SQL-Superstore_Data_Analysis/Superstore_Data_Load_and_Analysis.sql)  
+  - [Power BI Dashboard Screenshot](<img width="1161" height="653" alt="image" src="https://github.com/user-attachments/assets/070c6a1c-443c-4f42-bc9a-85df7e4f37ce" />)  
