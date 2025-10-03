@@ -23,4 +23,13 @@ Each project is designed to answer real-world business questions and showcase bo
 - **Deliverables:**  
   - [SQL Queries](project2-SQL-Superstore_Data_Analysis/Superstore_Data_Load_and_Analysis.sql)  
   - Power BI Dashboard Screenshot
-  - <img width="1161" height="653" alt="image" src="https://github.com/user-attachments/assets/070c6a1c-443c-4f42-bc9a-85df7e4f37ce" />  
+  - <img width="1161" height="653" alt="image" src="https://github.com/user-attachments/assets/070c6a1c-443c-4f42-bc9a-85df7e4f37ce" />
+
+ ### 3. Food Demand Forecasting (Machine Learning)
+
+- **Dataset:** [Food Delivery Service Orders](https://www.kaggle.com/datasets/kannanaikkal/food-demand-forecasting/data?select=train.csv)
+- **Tools:** Python (Pandas, NumPy, XGBoost)
+- **Skills:** Time-series analysis, feature engineering (lag features, mean encoding), model training, time-based validation
+- **Summary:** Developed an XGBoost regression model to predict weekly meal orders. Focused on optimizing features derived from pricing, center details, and historical demand to achieve robust forecasting accuracy.
+- **Deliverables:**
+ -[Jupyter Notebook](project3-food_demand_forecasting/notebooks)
