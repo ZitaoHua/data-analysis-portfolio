@@ -1,6 +1,6 @@
 
 # Data Analysis Portfolio
-A collection of projects showcasing SQL, Python, Tableau, and Power BI for real-world business analytics.
+A collection of projects showcasing SQL, Python, and Power BI for real-world business analytics.
 
 ## About
 This portfolio demonstrates my ability to clean, analyze, and visualize data using SQL, Python, and Power BI.
