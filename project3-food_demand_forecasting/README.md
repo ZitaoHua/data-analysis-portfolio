@@ -1,5 +1,6 @@
  # Project 3: Food Demand Forecasting 
- ## Objective: Develop a high-performance predictive model (XGBoost) to forecast weekly meal order quantities for a food delivery service, focusing on feature engineering to capture temporal, price, and meal-specific demand drivers.
+ ## Objective
+ Develop a high-performance predictive model (XGBoost) to forecast weekly meal order quantities for a food delivery service, focusing on feature engineering to capture temporal, price, and meal-specific demand drivers.
  
 - **Dataset:** [Food Delivery Service Orders](https://www.kaggle.com/datasets/kannanaikkal/food-demand-forecasting/data?select=train.csv)
 - **Tools:** Python (Pandas, NumPy, XGBoost)
