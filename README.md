@@ -1,4 +1,3 @@
-# data-analysis-portfolio
 
 # Data Analysis Portfolio
 A collection of projects showcasing SQL, Python, Tableau, and Power BI for real-world business analytics.
