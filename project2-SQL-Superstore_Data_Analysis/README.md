@@ -24,7 +24,9 @@ Product Mix: What is the sales and profit contribution of each Category and Sub-
 Profit Levers: What is the impact of Discount levels on overall Profit?
 
 Dashboard Preview
-<img width="1171" height="658" alt="image" src="https://github.com/user-attachments/assets/c120c26e-abbd-4f54-9757-f6e11ad58a3f" />
+<img width="1161" height="653" alt="image" src="https://github.com/user-attachments/assets/070c6a1c-443c-4f42-bc9a-85df7e4f37ce" />
+
+
 
 
 
