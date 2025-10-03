@@ -5,7 +5,7 @@
 - **Dataset:** [Food Delivery Service Orders](https://www.kaggle.com/datasets/kannanaikkal/food-demand-forecasting/data?select=train.csv)
 - **Tools:** Python (Pandas, NumPy, XGBoost)
 - **Skills:** Time-series analysis, feature engineering (lag features, mean encoding), model training, time-based validation
-- 
+  
 ## Key Questions
 1\. How do meal characteristics (cuisine, category) and center logistics influence demand?
 
